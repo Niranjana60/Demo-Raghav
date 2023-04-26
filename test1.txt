@@ -1,0 +1,10 @@
+ Volume in drive D is Workspace
+ Volume Serial Number is 0A51-9673
+
+ Directory of D:\learnings\git demo hands on
+
+26/04/2023  07:45    <DIR>          .
+26/04/2023  07:45    <DIR>          ..
+26/04/2023  07:45                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,642,477,568 bytes free
